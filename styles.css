@@ -1,0 +1,17 @@
+.cor-titulo{
+    color: rgb(7, 7, 90);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.cor-texto {
+    text-align: center;
+    color: rgb(61, 75, 114);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+        display: block;
+        margin: 0 auto;
+        margin-top: 2rem;
+        align-items: center;
+    }
